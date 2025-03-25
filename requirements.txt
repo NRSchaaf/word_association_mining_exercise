@@ -1,1 +1,7 @@
+gensim
+pandas
+numpy
+spacy
+nltk
+scipy
 nltk
